@@ -70,7 +70,7 @@ DevOps-Monitoring-Dashboard/
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/DevOps-Monitoring-Dashboard.git
+git clone https://github.com/BinaryBard29/DevOps-Monitoring-Dashboard.git
 ```
 
 ---
